@@ -1,6 +1,6 @@
 # Second Postmodern Lab 
 
-##The Task
+## The Task
 OOP.
 
 1. Design and implement a solution with one or several classes with interface-based API for one of the tasks listed below.<br />
@@ -11,7 +11,7 @@ OOP.
 Variant: <br />
 ** Implemet Bezier curve(any) **
 
-##Introduction
+## Introduction
 
 
 A Bezier curve is a parametric curve used in computer graphics and related fields.<br />
@@ -31,7 +31,7 @@ Number of points from wich our curve is contained.
 ![1_1](https://user-images.githubusercontent.com/57325686/175665334-3c305605-fa50-4c11-aa75-fe664dbdfcd2.JPG)
 
 
-##Some Examples:<br />
+## Some Examples:<br />
 ![1](https://user-images.githubusercontent.com/57325686/175665330-f3e62a79-70b4-4275-9fe8-f049870d4fb7.JPG)
 ![2](https://user-images.githubusercontent.com/57325686/175665335-2f9e4bbe-4e3f-4bad-b60d-b5e6de919cc6.JPG)
 ![3](https://user-images.githubusercontent.com/57325686/175665336-13d628a5-52e1-4267-9e9b-9214853f92b6.JPG)
