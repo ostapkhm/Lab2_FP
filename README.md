@@ -9,7 +9,7 @@ OOP.
 4. [Optional] Set up automatic per push unit tests running in your repository.<br />
 
 Variant: <br />
-** Implemet Bezier curve(any) **
+**Implemet Bezier curve(any)**
 
 ## Introduction
 
@@ -19,14 +19,14 @@ A set of discrete "control points" defines a smooth, continuous curve by means o
 
 In general case we have such formula:<br />
 
-
+![0](https://user-images.githubusercontent.com/57325686/175666679-599edbd9-2ea3-4165-acff-c51e22e2d024.JPG)
 
 
 This project was built in Unity using C#. The main feature here is that it's possible <br />
 to make a Bezier Curve almost any order. In fact the highest order is 68(than overflow comes).<br />
 Also it's possible to add points by mouse clicking.<br />
-Some additional preferences available like LineWidth, StartPoints, <br />
-Number of points from wich our curve is contained.
+Some additional preferences available like Line Width, Control Points, <br />
+Curve Points Amount - amount of points from wich our curve is contained.
 
 ![1_1](https://user-images.githubusercontent.com/57325686/175665334-3c305605-fa50-4c11-aa75-fe664dbdfcd2.JPG)
 
@@ -37,3 +37,13 @@ Number of points from wich our curve is contained.
 ![3](https://user-images.githubusercontent.com/57325686/175665336-13d628a5-52e1-4267-9e9b-9214853f92b6.JPG)
 ![4](https://user-images.githubusercontent.com/57325686/175665337-71846749-d291-4b1b-9231-e769f181cc39.JPG)
 ![5](https://user-images.githubusercontent.com/57325686/175665338-a84314ef-b019-4107-9ab6-3aabbd44b4a0.JPG)
+
+## Some Tests:<br />
+The fifth Test <br />
+![Test1](https://user-images.githubusercontent.com/57325686/175667400-9a536159-4a8c-4ee1-bca2-29377d5afbbf.JPG)
+
+The sixth Test <br />
+![Test2](https://user-images.githubusercontent.com/57325686/175667402-7b2a8dd7-a0fb-4aff-82e2-6768c2829cb2.JPG)
+
+
+
