@@ -23,7 +23,7 @@ In general case we have such formula:<br />
 
 
 This project was built in Unity using C#. The main feature here is that it's possible <br />
-to make a Bezier Curve almost any order. In fact the highest order is 68(than overflow comes).<br />
+to make a Bezier Curve almost any order. In fact the highest order is 67(than overflow comes).<br />
 Also it's possible to add points by mouse clicking.<br />
 Some additional preferences available like Line Width, Control Points, <br />
 Curve Points Amount - amount of points from wich our curve is contained.
@@ -39,11 +39,14 @@ Curve Points Amount - amount of points from wich our curve is contained.
 ![5](https://user-images.githubusercontent.com/57325686/175665338-a84314ef-b019-4107-9ab6-3aabbd44b4a0.JPG)
 
 ## Some Tests:<br />
-The fifth Test <br />
+The sixth Test <br />
 ![Test1](https://user-images.githubusercontent.com/57325686/175667400-9a536159-4a8c-4ee1-bca2-29377d5afbbf.JPG)
 
-The sixth Test <br />
+The fifth Test <br />
 ![Test2](https://user-images.githubusercontent.com/57325686/175667402-7b2a8dd7-a0fb-4aff-82e2-6768c2829cb2.JPG)
 
+## Result:<br />
 
+
+![vlc-record-2022-06-25-00h22m49s-2022-06-25-00-18-05 mkv-](https://user-images.githubusercontent.com/57325686/175692742-38c57281-56cd-48f5-b8f0-77292e402a60.gif)
 
